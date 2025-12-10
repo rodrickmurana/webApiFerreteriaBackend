@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ferreterbackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff61821a32ec6225c4ef6695c05f973f9fe755e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31862fd187975c5fb899b30005e8b1d49158534a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ferreterbackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ferreterbackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
